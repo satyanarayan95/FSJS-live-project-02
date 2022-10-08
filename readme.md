@@ -24,4 +24,4 @@
 
 #### Screenshot
 
-![Desktop](./screenshot/2.png)
+![Desktop](/screenshot/2.png)
