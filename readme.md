@@ -8,7 +8,7 @@
 
 ![name](https://img.shields.io/badge/Satya--Narayan--Patra-Software--Developer-green)
 
-## Project 1 [Live Link](https://live-project-02.netlify.app/)
+## Project 2 [Live Link](https://live-project-02.netlify.app/)
 
 -   Skills Gained in this project
     -   Learned to use css position [Relative & Absolute] property.
@@ -24,4 +24,4 @@
 
 #### Screenshot
 
-![Desktop](/screenshot/2.png)
+![Desktop](./screenshot/2.png)
